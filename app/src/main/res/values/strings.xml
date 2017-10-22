@@ -63,6 +63,7 @@
     <string name="color_effect">Color effect</string>
     <string name="scene_mode">Scene mode</string>
     <string name="white_balance">White balance</string>
+    <string name="title">Title</string>
 
     <string name="angle">Angle</string>
     <string name="direction">Direction</string>
@@ -414,6 +415,7 @@
 
     <string name="rename_error">File Rename Failed</string>
     <string name="rename_succes">File renamed</string>
+    <string name="rename_no_change">No change in file name</string>
 
     <!-- ACTIONS -->
     <string name="sort">Sort</string>
